@@ -1,5 +1,5 @@
-# PruebaBanco
-Prueba del Banco de Bogota
+# Prueba CRUD API REST
+Prueba del CRUD API REST
 
 - Para Ejecutar el proyecto es necesario tener instalado PostgreSQL o MySQL, el proyecti funciona en Java 8
 - Las configuraciones de la base de datos de encuentran en application.properties, dependiendo de cual se desea usar se comentan la una o la otra
